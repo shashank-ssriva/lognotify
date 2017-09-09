@@ -12,13 +12,13 @@ Please note that this version of lognotify is for Ubuntu only. I will be releasi
 ## Installation
 
 Clone/unzip the repository, ``cd`` to ``lognotify`` directory & issue : -
-```shell
+```bash
 sudo python setup.py install
 ```
 
 Below is what the step looks like.
 
-```shell
+```bash
 shashank@shashank-server ~/lognotify> sudo python setup.py install
 running install
 running bdist_egg
@@ -61,15 +61,15 @@ Finished processing dependencies for lognotify==0.1
 Once installed, lognotify is available as a shell command ``lognotify``. To invoke it, type ``lognotify`` followed by the absolute or relative path to the log file that you want to monitor.
 Depending upon the context, you will see a pop-up notification.
 
-```shell
+```bash
 root@shashank-dbserver /h/s/lognotify# lognotify
 No log-file specified. Kindly specify a valid log-file for monitoring. Exiting now...
 ```
-```shell
+```bash
 root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_access.log2
 Log-file you specified doesn't seem to be present. Please specify a valid file.
 ```
-```shell
+```bash
 root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_access.log
 192.168.0.51:80 127.0.0.1 - - [08/Sep/2017:15:00:51 +0200] "GET /jsdate/jsDatePick.min.1.3.js HTTP/1.1" 404 517 "http://localhost/CabBIlls/feedData.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
 ```
