@@ -67,7 +67,7 @@ No log-file specified. Kindly specify a valid log-file for monitoring. Exiting n
 ```
 ```bash
 root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_access.log2
-Log-file you specified doesn't seem to be present. Please specify a valid file.
+Log-file you specified doesn't seem to be present. Please specify a valid log file.
 ```
 ```bash
 root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_access.log
