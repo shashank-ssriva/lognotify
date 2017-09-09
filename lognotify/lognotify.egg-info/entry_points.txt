@@ -1,0 +1,3 @@
+[console_scripts]
+lognotify = lognotify.app:main
+

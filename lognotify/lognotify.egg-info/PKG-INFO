@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: lognotify
+Version: 0.1
+Summary: A real-time log monitoring & notification utility which pops up a notification (while running your application) whenever it sees an error in log-file.
+Home-page: http://github.com/shashank-ssriva
+Author: Shashank Srivastava
+Author-email: shashank.ssriv@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
