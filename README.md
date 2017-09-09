@@ -77,4 +77,12 @@ root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_a
 
 Below is the pop-up notification I saw because of a resource being not available(404) :
 
-<img src="https://github.com/shashank-ssriva/lognotify/blob/master/lognoify_in_action.png" height="300" width="200">
+<img src="https://github.com/shashank-ssriva/lognotify/blob/master/lognoify_in_action.png" height="350" width="250">
+
+## YouTube Demo Video
+
+Click below thumbnail to watch the demo video  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=K8I_xFdfYFs
+" target="_blank"><img src="http://img.youtube.com/vi/K8I_xFdfYFs/0.jpg" 
+alt="lognotify YourTube demo video" width="480" height="360" border="10" /></a>
