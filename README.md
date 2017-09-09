@@ -6,7 +6,7 @@ Wouldn't it be super convenient if you are working on your web-app code & you se
 It personally find it very helpful because I can get to know why my application is not working. Whenever an error is encountered, the pop-up message tells me about it right away :wink:
 
 lognotify is a simple utility (*& my first ever Python script*) that displays a pop-up notification showing me the exact error message in real-time while I am working on my PHP web-app.
-This utility is very simple, small & highly customisable. You can customise it to tailor to your specific needs. For example, you can customise it to monitor your system logs, Apache logs, MySQL logs & potentially an log-file.
+This utility is very simple, small & highly customisable. You can customise it to tailor to your specific needs. For example, you can customise it to monitor your system logs, Apache logs, MySQL logs & potentially any log-file.
 Please note that this version of lognotify is for Ubuntu only. I will be releasing similar versions for other OSes soon. 
 
 ## Installation
