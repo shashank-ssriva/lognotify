@@ -77,4 +77,4 @@ root@shashank-dbserver /h/s/lognotify# lognotify /var/log/apache2/other_vhosts_a
 
 Below is the pop-up notification I saw because of a resource being not available(404) :
 
-![lognotify in aciton](lognotify_in_action.png)
+<img src="https://github.com/shashank-ssriva/lognotify/blob/master/lognoify_in_action.png" height="300" width="200">
